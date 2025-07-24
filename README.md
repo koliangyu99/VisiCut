@@ -53,6 +53,3 @@ To use VisiCut, you'll run a Google Colab notebook that clones this repository a
 If you wish to run parts of this project locally (outside of Colab), you would typically:
 
 ```bash
-git clone [https://github.com/koliangyu99/VisiCut.git](https://github.com/your-username/VisiCut.git)
-cd VisiCut
-pip install -r requirements.txt # (if you create one)
