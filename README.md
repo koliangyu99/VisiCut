@@ -5,6 +5,8 @@
 VisiCut is a Google Colab-friendly project that leverages the powerful Segment Anything Model 2 (SAM-2) for interactive image segmentation and transparent background cutouts. Simply upload an image, click points on the objects you want to segment, and VisiCut will generate a precise mask and a ready-to-use transparent PNG.
 
 This repository holds the core Python utility functions, designed for clean integration into a Google Colab notebook workflow.
+![Platform Demo](demo.png)
+
 
 ## Features
 
